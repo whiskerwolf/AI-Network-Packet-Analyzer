@@ -91,7 +91,7 @@ AI_Network_Packet_Analyzer/
 Clone repository:
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/whiskerwolf/AI-Network-Packet-Analyzer.git
 ```
 
 Install dependencies:
