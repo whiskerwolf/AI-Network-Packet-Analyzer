@@ -6,29 +6,29 @@ An advanced cybersecurity and AI-powered desktop application for live packet sni
 
 ## Features
 
-✅ Live packet sniffing
+Live packet sniffing
 
-✅ Protocol detection:
+Protocol detection:
 - TCP
 - UDP
 - ICMP
 
-✅ Application protocol detection:
+Application protocol detection:
 - HTTP
 - HTTPS
 - DNS
 
-✅ AI anomaly detection using Isolation Forest
+AI anomaly detection using Isolation Forest
+ 
+Suspicious packet alerts
 
-✅ Suspicious packet alerts
+High traffic monitoring
 
-✅ High traffic monitoring
+Real-time desktop GUI
 
-✅ Real-time desktop GUI
+Traffic analytics dashboard
 
-✅ Traffic analytics dashboard
-
-✅ Export logs to CSV
+Export logs to CSV
 
 ---
 
